@@ -46,9 +46,17 @@ a {
     color: #2e2f42;
 }
 
+.header-menu-link {
+color:#2e2f42;
+}
+
 .header-menu-link:hover,
 .header-menu-link:focus {
-    color: #4d5ae5;
+    color:#404bbf;
+}
+
+.header-contacts {
+font-style: normal;
 }
 
 .header-contacts-link:hover,
@@ -161,9 +169,7 @@ a {
 
 
 /* --------------------our portfolio------------------------ */
-.port-list {
- background-color: #FFFFFF;
-}
+
 
 .port-title {
     font-weight: 700;
@@ -175,7 +181,9 @@ a {
     text-transform: capitalize;
 }
 
-
+.port-list {
+    background-color: #FFFFFF;
+}
 
 .port-item-title {
     font-weight: 500;
