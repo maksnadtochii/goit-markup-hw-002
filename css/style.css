@@ -171,6 +171,14 @@ font-style: normal;
 /* --------------------our portfolio------------------------ */
 
 
+.port {
+    background-color:#f4f4fd;
+}
+
+.port-list {
+    background-color: #FFFFFF;
+}
+
 .port-title {
     font-weight: 700;
     font-size: 36px;
@@ -181,9 +189,7 @@ font-style: normal;
     text-transform: capitalize;
 }
 
-.port-list {
-    background-color: #FFFFFF;
-}
+
 
 .port-item-title {
     font-weight: 500;
