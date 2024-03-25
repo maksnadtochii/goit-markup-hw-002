@@ -132,9 +132,12 @@ a {
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
+    text-transform: capitalize;
 }
 
-
+.team-list {
+    background-color: #FFFFFF;
+}
 
 .team-name {
     font-weight: 500;
